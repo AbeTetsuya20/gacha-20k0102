@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"AbeTetsuya20/gacha-gacha/gacha"
+	"github.com/AbeTetsuya20/gacha-20k0102/gacha"
 )
 
 var rrea = &gacha.Rea{
